@@ -10,8 +10,8 @@ Exemplo de uso do **Markdown** apresentado em *sala* no dia 26/10/2020
 1.  item1
 1.  item2
 1.  item3
-  1.  item4
-  1.  item4
+  1. item4
+  1. item4
   
 #### Lista Não ordenada
 * Item 1
