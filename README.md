@@ -7,10 +7,10 @@ Exemplo de uso do **Markdown** apresentado em *sala* no dia 26/10/2020
 ### Título 3
 
 #### Lista Ordenada
-l.  item1
-l.  item2
-l.  item3
-  l.  item4
+1.  item1
+1.  item2
+1.  item3
+  1.  item4
   
 #### Lista Não ordenada
 * Item 1
