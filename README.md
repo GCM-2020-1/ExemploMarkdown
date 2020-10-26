@@ -18,3 +18,12 @@ Exemplo de uso do **Markdown** apresentado em *sala* no dia 26/10/2020
 * Item 2
 * Item 3
   * Item 4
+  
+  
+```java
+public class HelloWorld{
+  public static void main(String[] args){
+    System.out.println("Hello World");
+  } 
+}
+```
